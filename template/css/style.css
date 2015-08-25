@@ -1,15 +1,8 @@
 * {
-  margin: 0;
-  padding: 0; }
-
-html {
   margin: 0; }
 
 body {
-  height: 100%;
-  width: 100%; }
-
-div {
+  background: #ccc;
   border-radius: 5px;
-  -webkit-transform: translateX(-260px);
-          transform: translateX(-260px); }
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0); }
