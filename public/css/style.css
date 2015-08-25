@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  margin: 0; }
+
+div {
+  border-radius: 5px;
+  -webkit-transform: translateX(-260px);
+          transform: translateX(-260px); }

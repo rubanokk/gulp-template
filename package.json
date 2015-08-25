@@ -1,0 +1,29 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "browser-sync": "^2.8.2",
+    "connect": "^3.4.0",
+    "connect-livereload": "^0.5.3",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-myth": "^1.0.3",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.0.4",
+    "tiny-lr": "^0.1.6"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
